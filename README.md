@@ -10,5 +10,5 @@ We will also be writing a blog post as a part of this project. The potential hos
 
 To help them we will be looking at the following:
 1) What are the most popular property types in Seattle?
-2) Does the neighbourhood affect the proprty prices for similar properties?
+2) How does the neighbourhood affect the proprty prices for similar properties?
 3) What factors affect the price of a property most?
