@@ -12,3 +12,5 @@ To help them we will be looking at the following:
 1) What are the most popular property types in Seattle?
 2) How does the neighbourhood affect the proprty prices of the most popular properties?
 3) What factors affect the price of a property most?
+
+The findings of this analysis can be found in the blog post: https://diliphebballi.medium.com/a-look-at-seattle-housing-data-on-airbnb-ba41a3e495b4
