@@ -14,3 +14,13 @@ To help them we will be looking at the following:
 3) What factors affect the price of a property most?
 
 The findings of this analysis can be found in the blog post: https://diliphebballi.medium.com/a-look-at-seattle-housing-data-on-airbnb-ba41a3e495b4
+
+# Libraries
+The following libraries are used in the notebook:
+numpy
+pandas
+matplotlib
+seaborn
+
+# Files
+Airbnb_Seattle_Analysis.ipynb - This file is a J
