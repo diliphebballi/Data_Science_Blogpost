@@ -17,10 +17,12 @@ The findings of this analysis can be found in the blog post: https://diliphebbal
 
 # Libraries
 The following libraries are used in the notebook:
-numpy
-pandas
-matplotlib
+numpy,
+pandas,
+matplotlib.pyplot and
 seaborn
 
 # Files
-Airbnb_Seattle_Analysis.ipynb - This file is a J
+Airbnb_Seattle_Analysis.ipynb - This file is a Jupyter Notebook which has the Python code used to analyse the Airbnb data for the properties in Seattle.
+
+listing.csv - This is a csv file which has the listings of Seattle properties on Airbnb.
